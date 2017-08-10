@@ -32,3 +32,7 @@ tf
         ├── sound
         └── ...
 ```
+
+How to Enable m0refont Damage Text
+--------
+If you would like to use m0re's font for the damage text, copy the contents of `ImprovedDefaultHUD-master/m0refont/resource` into ` ImprovedDefaultHUD-master/resource` and replace any existing files.
