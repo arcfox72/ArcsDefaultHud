@@ -32,6 +32,9 @@ tf
         ├── sound
         └── info.vdf
 ```
+Screenshots
+--------
+https://imgur.com/a/LKhio - imgur album of HUD screenshots
 
 How to Enable m0refont Damage Text
 --------
