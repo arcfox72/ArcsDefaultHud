@@ -8,6 +8,10 @@ About
 
 An improved Default TF2 Hud with health numbers on Target ID, clearer Damage Text, and a cleaner scoreboard. Works across all game modes and resolutions.
 
+Screenshots
+--------
+https://imgur.com/a/LKhio - imgur album of HUD screenshots
+
 To Download
 --------
 
@@ -32,9 +36,6 @@ tf
         ├── sound
         └── info.vdf
 ```
-Screenshots
---------
-https://imgur.com/a/LKhio - imgur album of HUD screenshots
 
 How to Enable m0refont Damage Text
 --------
