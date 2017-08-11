@@ -1,4 +1,4 @@
-Improved Default Hud
+Arcfox72's Improved Default HUD
 =======
 
 A HUD for Team Fortress 2.
@@ -35,4 +35,4 @@ tf
 
 How to Enable m0refont Damage Text
 --------
-If you would like to use m0re's font for the damage text, copy the contents of `ImprovedDefaultHUD-master/m0refont/resource` into ` ImprovedDefaultHUD-master/resource` and overwrite/replace any overlapping files.
+If you would like to use m0re's font for the damage text, copy the contents of `ArcsDefaultHud-master/m0refont/resource` into ` ArcsDefaultHud-master/resource` and overwrite/replace any overlapping files.
