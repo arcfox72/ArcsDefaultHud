@@ -6,7 +6,7 @@ A HUD for Team Fortress 2.
 About
 -------
 
-An improved Default TF2 Hud with health numbers on Target ID, clearer Damage Text, and a cleaner scoreboard. Works on all resolutions.
+An improved Default TF2 Hud with health numbers on Target ID, clearer Damage Text, and a cleaner scoreboard. Works across all game modes and resolutions.
 
 To Download
 --------
