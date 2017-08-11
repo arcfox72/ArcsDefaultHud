@@ -18,19 +18,19 @@ To Install
 
 Be sure to back up your old hud folder first! Never know when something might break, and it's always best to be prepared.
 
-1. Press `Download Zip` on Github. This will download `ImprovedDefaultHUD-master.zip`
+1. Press `Download Zip` on Github. This will download `ArcsDefaultHud-master.zip`
 2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
 3. Extract .zip file contents into the `custom` folder.
 4. Ensure that the final file structure resembles the following:
 ```
 tf
 └── custom
-    └── ImprovedDefaultHUD-master
+    └── ArcsDefaultHud-master
         ├── materials
         ├── resource
         ├── scripts
         ├── sound
-        └── ...
+        └── info.vdf
 ```
 
 How to Enable m0refont Damage Text
